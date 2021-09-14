@@ -1,2 +1,2 @@
-# wheres-for-dinner.github.io
+# README
 Where's for Dinner? 
